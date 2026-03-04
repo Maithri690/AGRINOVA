@@ -1,0 +1,10 @@
+streamlit
+pillow
+requests
+pandas
+geocoder
+speechrecognition
+pyaudio
+pyttsx3
+google-genai
+numpy
